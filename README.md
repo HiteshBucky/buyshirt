@@ -15,10 +15,20 @@
 
 ## 🚩 &nbsp; Main Features
 
-> This App was made to track the order state since the customer place it
-> once it's shipped the seller mark it as shipped, and then the shipper mark it as delivered.
+An ecommerce store built with MERN stack, and utilizes third party API's. This ecommerce store enable two main different flows or implementations:
 
-#### Project methodology
+1. Buyers browse the store categories, products and brands
+2. Sellers or Merchants manage their own brand component 
+
+
+* features:
+  * Node provides the backend environment for this application
+  * Express middleware is used to handle requests, routes
+  * Mongoose schemas to model the application data
+  * React for displaying UI components
+
+
+#### 📝&nbsp; Project methodology
 
 - **Register and signin system**
   - Everyone is registered as a customer.
