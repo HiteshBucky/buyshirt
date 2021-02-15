@@ -118,6 +118,7 @@ To run this project, install it locally using npm:
   ```
   http://localhost:3000/
   ```
+5. Clone the backend of this repo by visiting [this](https://github.com/HiteshBucky/tshirt-backend)
 Happy Coding :)
 
 # Author
